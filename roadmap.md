@@ -1,0 +1,5 @@
+- [x] Build rescue homepage with donor/adopter entry points
+- [x] Add working adoption browsing and application flow
+- [x] Add working donation amount and supporter form
+- [x] Add pixel-style splash intro animation to homepage (from user video)
+- [ ] Verify routes, metadata, and responsive preview
